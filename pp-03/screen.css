@@ -14,9 +14,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 */
 
 html{
- font-family:   ;
- font-size:   ;
- line-height:  ;
+ font-family: "Lucida Bright", Georgia, serif;
+ font-size: 1.125em; /*18/16px */   
+ line-height: 1.2em; /*21.60/18 */ 
+ padding-left: 1em;
+ padding-right: 1em;
  background-color: #D4846A;
  color: #551400;
+}
+
+h1{
+  font-family: "Arial Black," Gadget, Sans-serif;
 }

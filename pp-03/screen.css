@@ -25,4 +25,25 @@ html{
 
 h1{
   font-family: "Arial Black," Gadget, Sans-serif;
+  font-size: 1.78em;  /*32px/18px*/ 
+	text-align: left;
+	font-weight: bold;
+	line-height: 1.2em; /*38.40px/32px */
+	padding-bottom: 2em; 
+	padding-top: .5em;
+}
+
+h3{
+  font-size: 1.33em;  /*24px/18px*/
+	line-height: 1.44em ; /*28.80px/24px*/
+	font-weight: bold;
+	padding-bottom:.5em;
+	padding-top: .5em;
+}
+
+label,
+input{
+	display:block;
+	font-family: inherit;
+	line-height: inherit;
 }

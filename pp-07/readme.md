@@ -34,7 +34,8 @@ Small commits to your Production Problems repository that include:
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:https://developer.apple.com/ios/human-interface-guidelines/visual-design/animation/
-  This link showed me the need to visuals in the website. 
+  This link showed me the need to visuals in the website. It also helped me because it said to keep things constant and 
+  not to overpopulate my website with more animations just because. 
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:

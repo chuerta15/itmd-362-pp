@@ -26,11 +26,15 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL):https://developer.apple.com/ios/human-interface-guidelines/ui-controls/text-fields/
 * How you implemented it in your sketch:
+    This link showed the importance of placeholders into the text-fields. 
+    It also states that we need to have a secure text-fields. 
+    I think placeholders is a good way to guide the user into what to fill. 
 
 * HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch:https://developer.apple.com/ios/human-interface-guidelines/visual-design/animation/
+  This link showed me the need to visuals in the website. 
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:

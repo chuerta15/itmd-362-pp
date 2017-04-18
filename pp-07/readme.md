@@ -38,4 +38,8 @@ Small commits to your Production Problems repository that include:
   not to overpopulate my website with more animations just because. 
 
 * HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch:https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/
+
+  Color is a very important when building a website. This really brings people to view and stay at a website.
+  In this link helped me want to add more color into my design. I usually like the usual black and white websites but
+  it is fun to add some color and typology into building sites.

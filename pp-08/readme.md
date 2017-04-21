@@ -33,6 +33,7 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1. 
-2.
-3.
+1. Functional: Our website must have functionability and be able to perform.
+2. Simple: Our website should be easy to use for everyone that uses it no matter what there skill levels are.
+3. Attractive: Our website should be colorful and let students have a visual understanding of the website. 
+               Colors should be able to be uniformed throughout. 

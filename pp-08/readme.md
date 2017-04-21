@@ -13,13 +13,18 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 B. Emotional design levels of your object:
 
 * Visceral: 
-  When I brought this item I wanted a new agenda. Each one of the agendas that I had seen were 
-  too plain. They were just plain black and hardly have anything girly. 
+  I had spent some time looking for an agenda that had everything that stood out to me.
+  Each one of the agendas that I had seen were too plain. 
+  They were just plain black and they did not have anything girly. 
   When I first seen this item, I really liked that it had flowers. Once I opened it that is when 
-  I knew I had to buy it. This agenda has enough space for notes as well as it separates the 
+  I knew I had to buy it. This agenda has enough space for notes as well as it divides the 
   months by color and tabs. 
 
 * Behavioral:
+  This agenda does what it needs to do. It has stickers that allows me to personalize it.
+  It helps me keep track of the assignments that I need to do which is the main reason
+  why I brought it. It also helps me schedule for my payments and things that I need to pay.
+  
 
 * Reflective:
 

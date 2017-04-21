@@ -12,7 +12,12 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: 
+  When I brought this item I wanted a new agenda. Each one of the agendas that I had seen were 
+  too plain. They were just plain black and hardly have anything girly. 
+  When I first seen this item, I really liked that it had flowers. Once I opened it that is when 
+  I knew I had to buy it. This agenda has enough space for notes as well as it separates the 
+  months by color and tabs. 
 
 * Behavioral:
 

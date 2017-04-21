@@ -27,9 +27,12 @@ B. Emotional design levels of your object:
   
 
 * Reflective:
+  My overall impression of the product is positive. I would buy this product again once
+  I am done with it. When I have to show someone assignments that need to be completed I 
+  show them my agenda. I am not afraid to hide it. 
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
+1. 
 2.
 3.

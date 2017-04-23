@@ -16,11 +16,11 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 1. Navigation on the webpage should be easy to find and use.
 2. The main content should be easily identified.
-3. 
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+3. The website generates feedback once the task was completed.
+4. Instructions on the webpage are easy to follow
+5. Forms are kept short if possible and provide only the information needed.
+6. The content of the webpage should be sized to viewport.
+7. Font should be easy to read.
+8. Once logged in the website provides a welcome.
+9. Consistency should be throughout the website.
+10. Use simple language in which everyone will be able to understand.

@@ -10,12 +10,13 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 1. https://stayintech.com/info/UX
 2. https://www.w3.org/TR/WCAG10/full-checklist.html
+3. http://www.mobileusabilitychecklist.com/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
+1. Navigation on the webpage should be easy to find and use.
+2. The main content should be easily identified.
+3. 
 4.
 5.
 6.

@@ -22,8 +22,11 @@ and beautiful colors.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale: 
+Your Palette URL:http://paletton.com/palette.php?uid=53L0a0klCtFcOQPeDINqTlatadx
+Your Rationale: I choose this palette because whenever I think of something professional
+and private I think of blues. Most of the banks and messaging apps have a blue color to them.
+Each one of the companies have a different shade of blue which makes them look polish and it
+stands out. 
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 

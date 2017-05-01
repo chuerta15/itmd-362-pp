@@ -30,6 +30,8 @@ stands out.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/palette.php?uid=15x0a0kp5kGsOG8qqv-o5aKlQ7z
+Your Rationale:The pallete that I choose what more towards the red side. I think red is such 
+a strong color and it catched peoples attention. So in advertising that is something that you want 
+to do, catch the audience attention.
 

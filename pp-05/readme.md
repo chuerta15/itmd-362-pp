@@ -9,12 +9,16 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 1. An adjacent color palette for introducing a new console gaming platform
 
 Your Palette URL:http://paletton.com/palette.php?uid=54T0w0knBmylI8jkHe5qbvsobHk
-Your Rationale:54T0w0knBmylI8jkHe5qbvsobHk
+Your Rationale: I thought of this color pallette because I think of combat games. 
+Every major game I have seen is dark. That's why I integrated the dark blues, reds, and purples.
+
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/palette.php?uid=55g0A0kbKr27J8CaaiheADgdiPE
+Your Rationale: I love my pallete. Whenever I think of Spring I think of pastels 
+and nice soft colors such as pinks and purples. I always think of Spring as light
+and beautiful colors.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
